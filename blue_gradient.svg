@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="360" height="120">
+  <g fill="none">
+    <path stroke="#CFCFCF" d="M20 020 l300 0" />
+    <path stroke="#0000CF" d="M20 025 l275 0" />
+    <path stroke="#000CCF" d="M20 030 l250 0" />
+    <path stroke="#000FCF" d="M20 035 l225 0" />
+    <path stroke="#0030CF" d="M20 040 l200 0" />
+    <path stroke="#003CCF" d="M20 045 l175 0" />
+    <path stroke="#003FCF" d="M20 050 l150 0" />
+    <path stroke="#0080CF" d="M20 055 l125 0" />
+    <path stroke="#008CCF" d="M20 060 l100 0" />
+    <path stroke="#008FCF" d="M20 065 l125 0" />
+    <path stroke="#00C0CF" d="M20 070 l150 0" />
+    <path stroke="#00CCCF" d="M20 075 l175 0" />
+    <path stroke="#00CFCF" d="M20 080 l200 0" />
+    <path stroke="#00F0CF" d="M20 085 l225 0" />
+    <path stroke="#00FCCF" d="M20 090 l250 0" />
+    <path stroke="#00FFCF" d="M20 095 l275 0" />
+    <path stroke="#303030" d="M20 100 l300 0" />
+  </g>
+</svg>

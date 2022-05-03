@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.0" width="360" height="120">
+  <g fill="none">
+    <path stroke="#0000CC" d="M17 025 l250 -15" />
+    <path stroke="#1111CC" d="M23 030 l250 -15" />
+    <path stroke="#2222CC" d="M29 035 l250 -15" />
+    <path stroke="#3333CC" d="M35 040 l250 -15" />
+    <path stroke="#4444CC" d="M41 045 l250 -15" />
+    <path stroke="#5555CC" d="M47 050 l250 -15" />
+    <path stroke="#6666CC" d="M53 055 l250 -15" />
+    <path stroke="#7777CC" d="M59 060 l250 -15" />
+    <path stroke="#8888CC" d="M65 065 l250 -15" />
+    <path stroke="#9999CC" d="M71 070 l250 -15" />
+    <path stroke="#AAAACC" d="M77 075 l250 -15" />
+    <path stroke="#BBBBCC" d="M83 080 l250 -15" />
+    <path stroke="#CCCCCC" d="M89 085 l250 -15" />
+    <path stroke="#DDDDCC" d="M95 090 l250 -15" />
+    <path stroke="#EEEECC" d="M101 095 l250 -15" />
+    <path stroke="#FFFFCC" d="M107 100 l250 -15" />
+  </g>
+</svg>
